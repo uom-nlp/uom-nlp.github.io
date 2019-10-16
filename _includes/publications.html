@@ -1,8 +1,14 @@
-<ul>
-  {% for paper in site.data.papers.papers %}
-    {% assign year = paper.year | plus: 0 %}
-    {% if year == include.year %}
-      <li>
+{% assign is_first = 1 %}
+
+{% for paper in site.data.papers.papers %}
+  {% assign year = paper.year | plus: 0 %}
+  {% if year == include.year %}
+    {% if is_first == 1 %}
+<h2 id="{{year}}">{{ year }}</h2>
+<ul id="papers_{{ include.year }}">
+        {% assign is_first = 0 %}
+    {% endif %}
+    <li>
       {{ paper.author }}
       ({{ paper.year }}).
       {% if paper.docurl %}<a href="{{paper.docurl}}">{% endif %}
@@ -24,4 +30,6 @@
       </li>
     {% endif %}
   {% endfor %}
+{% if is_first == 0 %}
 </ul>
+{% endif %}
