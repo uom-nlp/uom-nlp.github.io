@@ -21,9 +21,6 @@
         {% when "article" %}
           <i>{{ paper.journal }}</i>{% if paper.volume %}, Vol {{ paper.volume }}{% endif %}{% if paper.number %}({{ paper.number }}){% endif %}.
       {% endcase %}
-      {% if paper.docurl %}
-        <a href="{{paper.docurl}}">[pdf]</a>
-      {% endif %}
       {% if paper.codeurl %}
         <a href="{{paper.codeurl}}">[code]</a>
       {% endif %}
