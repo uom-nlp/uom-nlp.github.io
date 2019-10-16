@@ -88,7 +88,7 @@ papers:
     booktitle-full: "Proceedings of the 13th International Workshop on Semantic Evaluation"
     docurl: "https://www.aclweb.org/anthology/S19-2231/"
   - layout: paper
-    author: "Kaimin Zhou, Chang Shu, Binyang Li and Jey Lau"
+    author: "Kaimin Zhou, Chang Shu, Binyang Li and Jey Han Lau"
     title: "Early Rumour Detection"
     year: "2019"
     paper-type: inproceedings
