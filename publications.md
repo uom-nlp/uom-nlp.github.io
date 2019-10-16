@@ -3,6 +3,13 @@ layout: page
 title: "Publications"
 ---
 
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search...">
+
+{% for yr in (1998..2025) reversed %}
+{% include publications.html year=yr %}
+{% endfor %}
+
+
 <script>
 function myFunction() {
   // Declare variables
@@ -28,8 +35,3 @@ function myFunction() {
 }
 </script>
 
-<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search...">
-
-{% for yr in (1998..2025) reversed %}
-{% include publications.html year=yr %}
-{% endfor %}
