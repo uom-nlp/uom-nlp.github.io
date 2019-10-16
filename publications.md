@@ -12,7 +12,6 @@ title: "Publications"
 
 <script>
 function myFunction() {
-  // Declare variables
   var input, filter, table, ul, li, i, txtValue, year;
   input = document.getElementById("myInput");
   filter = input.value.toUpperCase();
