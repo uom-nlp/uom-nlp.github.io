@@ -60,7 +60,10 @@ for bib_id in sorted(allbib.entries, reverse=True,
         for ai, author in enumerate(e.persons["author"]):
             if ai == (num_authors-1) and num_authors != 1:
                 authors += "and "
-            authors += fix_author(author.first_names[0]) + " " + fix_author(author.last_names[0])
+            if author.first_names[0] == "Jey" and author.middle_names[0] == "Han" and author.last_names[0] == "Lau":
+                authors += "Jey Han Lau"
+            else:
+                authors += fix_author(author.first_names[0]) + " " + fix_author(author.last_names[0])
             if ai < (num_authors-2):
                 authors += ", "
             elif ai < (num_authors-1):
