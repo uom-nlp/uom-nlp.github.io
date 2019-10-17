@@ -12,7 +12,7 @@ title: People
 
 [Trevor Cohn](https://people.eng.unimelb.edu.au/tcohn) (Associate Professor)
 
-[Jey Han Lau](https://jhlau.github.io) (Lecturer)
+[Jey Han Lau](https://jeyhan.my) (Lecturer)
 
 [Lea Frermann](http://www.frermann.de) (Lecturer)
 
