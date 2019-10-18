@@ -7,7 +7,8 @@ import string
 input = "abstract.txt"
 stopwords = set(["propose", "task", "data", "training", "outperforms", "proposed", "level", "natural", 
     "method", "performance", "evaluation", "paper", "text", "based", "results", "state-of-the-art",
-    "english", "including", "work", "tasks", "substantial", "improvements"])
+    "english", "including", "work", "tasks", "substantial", "improvements",
+    "background", "objective", "results", "conclusions", ])
 
 nlp = English()
 
