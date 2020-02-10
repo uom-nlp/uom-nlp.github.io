@@ -1,5 +1,13 @@
 papers:
   - layout: paper
+    author: "Bryn Jeffries, Timothy Baldwin, Marion Zalk and Ben Taylor"
+    title: "Online Tutoring to Support Programming Exercises"
+    year: "2020"
+    paper-type: inproceedings
+    booktitle: "ACE 2020"
+    booktitle-full: "Proceedings of the Twenty-Second Australasian Computing Education Conference"
+    docurl: "https://doi.org/10.1145/3373165.3373172"
+  - layout: paper
     author: "Michal Lukasik, Kalina Bontcheva, Trevor Cohn, Arkaitz Zubiaga, Maria Liakata and Rob Procter"
     title: "Gaussian Processes for Rumour Stance Classification in Social Media"
     year: "2019"
@@ -15,6 +23,14 @@ papers:
     journal: "Journal of Computational Biology"
     volume: 26
     docurl: "https://doi.org/10.1089/cmb.2018.0198"
+  - layout: paper
+    author: "Hamed Hassanzadeh, Anthony Nguyen and Karin Verspoor"
+    title: "Quantifying semantic similarity of clinical evidence in the biomedical literature to facilitate related evidence synthesis"
+    year: "2019"
+    paper-type: article
+    journal: "Journal of Biomedical Informatics"
+    volume: 100
+    docurl: "https://doi.org/10.1016/j.jbi.2019.103321"
   - layout: paper
     author: "Tommi Jauhiainen, Marco Lui, Marcos Zampieri, Timothy Baldwin and Krister Linden"
     title: "Automatic Language Identification in Texts: A Survey"
@@ -40,6 +56,14 @@ papers:
     volume: 20
     docurl: "https://doi.org/10.1186/s12859-019-2801-x"
   - layout: paper
+    author: "Ziad Bkhetan, Justin Zobel, Adam Kowalczyk, Karin Verspoor and Benjamin Goudey"
+    title: "Exploring effective approaches for haplotype block phasing"
+    year: "2019"
+    paper-type: article
+    journal: "BMC Bioinformatics"
+    volume: 20
+    docurl: "https://doi.org/10.1186/s12859-019-3095-8"
+  - layout: paper
     author: "Rezarta Dogan, Sun Kim, Andrew Chatr-aryamontri, Chih-Hsuan Wei, Donald Comeau, Rui Antunes, Sergio Matos, Qingyu Chen, Aparna Elangovan, Nagesh Panyam, Karin Verspoor, Hongfang Liu, Yanshan Wang, Zhuang Liu, Berna Altinel, Zehra Husunbeyi, Arzucan Ozgur, Aris Fergadis, Chen-Kai Wang, Hong-Jie Dai, Tung Tran, Ramakanth Kavuluru, Ling Luo, Albert Steppi, Jinfeng Zhang, Jinchan Qu and Zhiyong Lu"
     title: "Overview of the BioCreative VI Precision Medicine Track: mining protein interactions and mutations for precision medicine"
     year: "2019"
@@ -62,7 +86,15 @@ papers:
     paper-type: inproceedings
     booktitle: "WMT 2019"
     booktitle-full: "Proceedings of the Fourth Conference on Machine Translation"
-    docurl: "https://www.aclweb.org/anthology/W19-5403/"
+    docurl: "https://doi.org/10.18653/v1/w19-5403"
+  - layout: paper
+    author: "Daniel Beck, Trevor Cohn and Gholamreza Haffari"
+    title: "Neural Speech Translation using Lattice Transformations and Graph Networks"
+    year: "2019"
+    paper-type: inproceedings
+    booktitle: "Proceedings of the Thirteenth Workshop on Graph-Based Methods for Natural Language Processing"
+    booktitle-full: "Proceedings of the Thirteenth Workshop on Graph-Based Methods for Natural Language Processing"
+    docurl: "https://doi.org/10.18653/v1/D19-5304"
   - layout: paper
     author: "Shivashankar Subramanian, Trevor Cohn and Timothy Baldwin"
     title: "Target Based Speech Act Classification in Political Campaign Text"
@@ -70,7 +102,7 @@ papers:
     paper-type: inproceedings
     booktitle: "*SEM@NAACL-HLT 2019"
     booktitle-full: "Proceedings of the Eighth Joint Conference on Lexical and Computational Semantics"
-    docurl: "https://www.aclweb.org/anthology/S19-1030/"
+    docurl: "https://doi.org/10.18653/v1/s19-1030"
   - layout: paper
     author: "Matthias Petri, Alistair Moffat, Joel Mackenzie, J. Culpepper and Daniel Beck"
     title: "Accelerated Query Processing Via Similarity Score Prediction"
@@ -86,7 +118,7 @@ papers:
     paper-type: inproceedings
     booktitle: "SEMEVAL 2019"
     booktitle-full: "Proceedings of the 13th International Workshop on Semantic Evaluation"
-    docurl: "https://www.aclweb.org/anthology/S19-2231/"
+    docurl: "https://doi.org/10.18653/v1/s19-2231"
   - layout: paper
     author: "Kaimin Zhou, Chang Shu, Binyang Li and Jey Han Lau"
     title: "Early Rumour Detection"
@@ -94,7 +126,7 @@ papers:
     paper-type: inproceedings
     booktitle: "NAACL-HLT 2019"
     booktitle-full: "Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies"
-    docurl: "https://www.aclweb.org/anthology/N19-1163/"
+    docurl: "https://doi.org/10.18653/v1/n19-1163"
   - layout: paper
     author: "Ekaterina Vylomova, Ryan Cotterell, Trevor Cohn, Timothy Baldwin and Jason Eisner"
     title: "Contextualization of Morphological Inflection"
@@ -102,7 +134,7 @@ papers:
     paper-type: inproceedings
     booktitle: "NAACL-HLT 2019"
     booktitle-full: "Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies"
-    docurl: "https://www.aclweb.org/anthology/N19-1203/"
+    docurl: "https://doi.org/10.18653/v1/n19-1203"
   - layout: paper
     author: "Jiyu Chen, Karin Verspoor and Zenan Zhai"
     title: "A Bag-of-concepts Model Improves Relation Extraction in a Narrow Knowledge Domain with Limited Data"
@@ -110,7 +142,15 @@ papers:
     paper-type: inproceedings
     booktitle: "NAACL-HLT 2019"
     booktitle-full: "Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies"
-    docurl: "https://www.aclweb.org/anthology/N19-3007/"
+    docurl: "https://doi.org/10.18653/v1/n19-3007"
+  - layout: paper
+    author: "Guillermo Lopez-Campos, Philip Kiossoglou, Ann Borda, Christopher Hawthorne, Kathleen Gray and Karin Verspoor"
+    title: "Characterizing the Scope of Exposome Research Through Topic Modeling and Ontology Analysis"
+    year: "2019"
+    paper-type: inproceedings
+    booktitle: "MEDINFO 2019: Health and Wellbeing e-Networks for All - Proceedings of the 17th World Congress on Medical and Health Informatics"
+    booktitle-full: "MEDINFO 2019: Health and Wellbeing e-Networks for All - Proceedings of the 17th World Congress on Medical and Health Informatics"
+    docurl: "https://doi.org/10.3233/SHTI190519"
   - layout: paper
     author: "Aili Shen, Bahar Salehi, Timothy Baldwin and Jianzhong Qi"
     title: "A Joint Model for Multimodal Document Quality Assessment"
@@ -128,6 +168,14 @@ papers:
     booktitle-full: "Proceedings of the 36th International Conference on Machine Learning"
     docurl: "http://proceedings.mlr.press/v97/li19i.html"
   - layout: paper
+    author: "Shiwei Zhang, Jey Han Lau, Xiuzhen Zhang, Jeffrey Chan and Cecile Paris"
+    title: "Discovering Relevant Reviews for Answering Product-Related Queries"
+    year: "2019"
+    paper-type: inproceedings
+    booktitle: "ICDM 2019"
+    booktitle-full: "2019 IEEE International Conference on Data Mining"
+    docurl: "https://doi.org/10.1109/ICDM.2019.00192"
+  - layout: paper
     author: "Steven Spratley, Daniel Beck and Trevor Cohn"
     title: "A Unified Neural Architecture for Instrumental Audio Tasks"
     year: "2019"
@@ -135,6 +183,30 @@ papers:
     booktitle: "ICASSP 2019"
     booktitle-full: "IEEE International Conference on Acoustics"
     docurl: "https://doi.org/10.1109/ICASSP.2019.8682765"
+  - layout: paper
+    author: "Shivashankar Subramanian, Trevor Cohn and Timothy Baldwin"
+    title: "Deep Ordinal Regression for Pledge Specificity Prediction"
+    year: "2019"
+    paper-type: inproceedings
+    booktitle: "EMNLP-IJCNLP 2019"
+    booktitle-full: "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing"
+    docurl: "https://doi.org/10.18653/v1/D19-1182"
+  - layout: paper
+    author: "Nikos Papasarantopoulos, Lea Frermann, Mirella Lapata and Shay Cohen"
+    title: "Partners in Crime: Multi-view Sequential Inference for Movie Understanding"
+    year: "2019"
+    paper-type: inproceedings
+    booktitle: "EMNLP-IJCNLP 2019"
+    booktitle-full: "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing"
+    docurl: "https://doi.org/10.18653/v1/D19-1212"
+  - layout: paper
+    author: "Xudong Han, Philip Schulz and Trevor Cohn"
+    title: "Grounding learning of modifier dynamics: An application to color naming"
+    year: "2019"
+    paper-type: inproceedings
+    booktitle: "EMNLP-IJCNLP 2019"
+    booktitle-full: "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing"
+    docurl: "https://doi.org/10.18653/v1/D19-1158"
   - layout: paper
     author: "Dat Nguyen and Karin Verspoor"
     title: "End-to-End Neural Relation Extraction Using Deep Biaffine Attention"
@@ -150,7 +222,7 @@ papers:
     paper-type: inproceedings
     booktitle: "BioNLP 2019"
     booktitle-full: "Proceedings of the 18th BioNLP Workshop and Shared Task"
-    docurl: "https://www.aclweb.org/anthology/W19-5035/"
+    docurl: "https://doi.org/10.18653/v1/w19-5035"
   - layout: paper
     author: "Ehsan Hamzei, Haonan Li, Maria Vasardani, Timothy Baldwin, Stephan Winter and Martin Tomko"
     title: "Place Questions and Human-Generated Answers: A Data Analysis Approach"
@@ -160,13 +232,21 @@ papers:
     booktitle-full: "Geospatial Technologies for Local and Regional Development - Proceedings of the 22nd AGILE Conference on Geographic Information Science"
     docurl: "https://doi.org/10.1007/978-3-030-14745-7_1"
   - layout: paper
+    author: "Aili Shen, Daniel Beck, Bahar Salehi, Jianzhong Qi and Timothy Baldwin"
+    title: "Modelling Uncertainty in Collaborative Document Quality Assessment"
+    year: "2019"
+    paper-type: inproceedings
+    booktitle: "W-NUT@EMNLP 2019"
+    booktitle-full: "Proceedings of the 5th Workshop on Noisy User-generated Text"
+    docurl: "https://doi.org/10.18653/v1/D19-5525"
+  - layout: paper
     author: "Afshin Rahimi, Yuan Li and Trevor Cohn"
     title: "Massively Multilingual Transfer for NER"
     year: "2019"
     paper-type: inproceedings
     booktitle: "ACL 2019"
     booktitle-full: "Proceedings of the 57th Conference of the Association for Computational Linguistics"
-    docurl: "https://www.aclweb.org/anthology/P19-1015/"
+    docurl: "https://doi.org/10.18653/v1/p19-1015"
   - layout: paper
     author: "Nitika Mathur, Timothy Baldwin and Trevor Cohn"
     title: "Putting Evaluation in Context: Contextual Embeddings Improve Machine Translation Evaluation"
@@ -174,7 +254,7 @@ papers:
     paper-type: inproceedings
     booktitle: "ACL 2019"
     booktitle-full: "Proceedings of the 57th Conference of the Association for Computational Linguistics"
-    docurl: "https://www.aclweb.org/anthology/P19-1269/"
+    docurl: "https://doi.org/10.18653/v1/p19-1269"
   - layout: paper
     author: "Yitong Li, Timothy Baldwin and Trevor Cohn"
     title: "Semi-supervised Stochastic Multi-Domain Learning using Variational Inference"
@@ -182,7 +262,7 @@ papers:
     paper-type: inproceedings
     booktitle: "ACL 2019"
     booktitle-full: "Proceedings of the 57th Conference of the Association for Computational Linguistics"
-    docurl: "https://www.aclweb.org/anthology/P19-1186/"
+    docurl: "https://doi.org/10.18653/v1/p19-1186"
   - layout: paper
     author: "Lea Frermann and Alexandre Klementiev"
     title: "Inducing Document Structure for Aspect-based Summarization"
@@ -190,7 +270,55 @@ papers:
     paper-type: inproceedings
     booktitle: "ACL 2019"
     booktitle-full: "Proceedings of the 57th Conference of the Association for Computational Linguistics"
-    docurl: "https://www.aclweb.org/anthology/P19-1630/"
+    docurl: "https://doi.org/10.18653/v1/p19-1630"
+  - layout: paper
+    author: "Hiyori Yoshikawa, Dat Nguyen, Zenan Zhai, Christian Druckenbrodt, Camilo Thorne, Saber Akhondi, Timothy Baldwin and Karin Verspoor"
+    title: "Detecting Chemical Reactions in Patents"
+    year: "2019"
+    paper-type: inproceedings
+    booktitle: "ALTA 2019"
+    booktitle-full: "Proceedings of the The 17th Annual Workshop of the Australasian Language Technology Association"
+    docurl: "https://aclweb.org/anthology/papers/U/U19/U19-1014/"
+  - layout: paper
+    author: "Zhuohan Xie, Jey Han Lau and Trevor Cohn"
+    title: "From Shakespeare to Li-Bai: Adapting a Sonnet Model to Chinese Poetry"
+    year: "2019"
+    paper-type: inproceedings
+    booktitle: "ALTA 2019"
+    booktitle-full: "Proceedings of the The 17th Annual Workshop of the Australasian Language Technology Association"
+    docurl: "https://aclweb.org/anthology/papers/U/U19/U19-1002/"
+  - layout: paper
+    author: "Aili Shen, Bahar Salehi, Jianzhong Qi and Timothy Baldwin"
+    title: "Feature-guided Neural Model Training for Supervised Document Representation Learning"
+    year: "2019"
+    paper-type: inproceedings
+    booktitle: "ALTA 2019"
+    booktitle-full: "Proceedings of the The 17th Annual Workshop of the Australasian Language Technology Association"
+    docurl: "https://aclweb.org/anthology/papers/U/U19/U19-1007/"
+  - layout: paper
+    author: "Fajri Koto, Jey Han Lau and Timothy Baldwin"
+    title: "Improved Document Modelling with a Neural Discourse Parser"
+    year: "2019"
+    paper-type: inproceedings
+    booktitle: "ALTA 2019"
+    booktitle-full: "Proceedings of the The 17th Annual Workshop of the Australasian Language Technology Association"
+    docurl: "https://aclweb.org/anthology/papers/U/U19/U19-1010/"
+  - layout: paper
+    author: "Qianji Di, Ekaterina Vylomova and Tim Baldwin"
+    title: "Modelling Tibetan Verbal Morphology"
+    year: "2019"
+    paper-type: inproceedings
+    booktitle: "ALTA 2019"
+    booktitle-full: "Proceedings of the The 17th Annual Workshop of the Australasian Language Technology Association"
+    docurl: "https://aclweb.org/anthology/papers/U/U19/U19-1005/"
+  - layout: paper
+    author: "Gaurav Arora, Afshin Rahimi and Timothy Baldwin"
+    title: "Does an LSTM forget more than a CNN? An empirical study of catastrophic forgetting in NLP"
+    year: "2019"
+    paper-type: inproceedings
+    booktitle: "ALTA 2019"
+    booktitle-full: "Proceedings of the The 17th Annual Workshop of the Australasian Language Technology Association"
+    docurl: "https://aclweb.org/anthology/papers/U/U19/U19-1011/"
   - layout: paper
     author: "Wei Zhang, Quan Sheng, Jey Han Lau, Ermyas Abebe and Wenjie Ruan"
     title: "Duplicate Detection in Programming Question Answering Communities"
@@ -216,7 +344,7 @@ papers:
     volume: 52
     docurl: "https://doi.org/10.1145/3274784.3274789"
   - layout: paper
-    author: "Simone Romano, Nguyen Vinh, Karin Verspoor and James Bailey"
+    author: "Simone Romano, Xuan Nguyen, Karin Verspoor and James Bailey"
     title: "The randomized information coefficient: assessing dependencies in noisy data"
     year: "2018"
     paper-type: article
@@ -310,7 +438,7 @@ papers:
     paper-type: inproceedings
     booktitle: "WMT 2018"
     booktitle-full: "Proceedings of the Third Conference on Machine Translation: Shared Task Papers"
-    docurl: "https://www.aclweb.org/anthology/W18-6403/"
+    docurl: "https://doi.org/10.18653/v1/w18-6403"
   - layout: paper
     author: "Timothy Baldwin"
     title: "Language and the Shifting Sands of Domain, Space and Time (Invited Talk)"
@@ -350,7 +478,7 @@ papers:
     paper-type: inproceedings
     booktitle: "SEMEVAL 2018"
     booktitle-full: "Proceedings of The 12th International Workshop on Semantic Evaluation"
-    docurl: "https://www.aclweb.org/anthology/S18-1190/"
+    docurl: "https://doi.org/10.18653/v1/s18-1190"
   - layout: paper
     author: "Shivashankar Subramanian, Trevor Cohn and Timothy Baldwin"
     title: "Hierarchical Structured Model for Fine-to-Coarse Manifesto Text Analysis"
@@ -358,7 +486,7 @@ papers:
     paper-type: inproceedings
     booktitle: "NAACL-HLT 2018"
     booktitle-full: "Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies"
-    docurl: "https://www.aclweb.org/anthology/N18-1178/"
+    docurl: "https://doi.org/10.18653/v1/n18-1178"
   - layout: paper
     author: "Fei Liu, Trevor Cohn and Timothy Baldwin"
     title: "Recurrent Entity Networks with Delayed Memory Update for Targeted Aspect-Based Sentiment Analysis"
@@ -366,7 +494,7 @@ papers:
     paper-type: inproceedings
     booktitle: "NAACL-HLT 2018"
     booktitle-full: "Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies"
-    docurl: "https://www.aclweb.org/anthology/N18-2045/"
+    docurl: "https://doi.org/10.18653/v1/n18-2045"
   - layout: paper
     author: "Yitong Li, Timothy Baldwin and Trevor Cohn"
     title: "What&apos;s in a Domain? Learning Domain-Robust Text Representations using Adversarial Training"
@@ -374,7 +502,7 @@ papers:
     paper-type: inproceedings
     booktitle: "NAACL-HLT 2018"
     booktitle-full: "Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies"
-    docurl: "https://www.aclweb.org/anthology/N18-2076/"
+    docurl: "https://doi.org/10.18653/v1/n18-2076"
   - layout: paper
     author: "Maria Barrett, Ana Gonzalez-Garduno, Lea Frermann and Anders Sogaard"
     title: "Unsupervised Induction of Linguistic Categories with Records of Reading, Speaking, and Writing"
@@ -382,7 +510,7 @@ papers:
     paper-type: inproceedings
     booktitle: "NAACL-HLT 2018"
     booktitle-full: "Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies"
-    docurl: "https://www.aclweb.org/anthology/N18-1184/"
+    docurl: "https://doi.org/10.18653/v1/n18-1184"
   - layout: paper
     author: "Aurelie Neveol, Antonio Jimeno-Yepes, Mariana Neves and Karin Verspoor"
     title: "Parallel Corpora for the Biomedical Domain"
@@ -430,7 +558,7 @@ papers:
     paper-type: inproceedings
     booktitle: "EMNLP 2018"
     booktitle-full: "Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing"
-    docurl: "https://www.aclweb.org/anthology/D18-1310/"
+    docurl: "https://doi.org/10.18653/v1/d18-1310"
   - layout: paper
     author: "Shraey Bhatia, Jey Han Lau and Timothy Baldwin"
     title: "Topic Intrusion for Automatic Topic Model Evaluation"
@@ -438,7 +566,7 @@ papers:
     paper-type: inproceedings
     booktitle: "EMNLP 2018"
     booktitle-full: "Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing"
-    docurl: "https://www.aclweb.org/anthology/D18-1098/"
+    docurl: "https://doi.org/10.18653/v1/d18-1098"
   - layout: paper
     author: "Khoi-Nguyen Tran, Jey Han Lau, Danish Contractor, Utkarsh Gupta, Bikram Sengupta, Christopher Butler and Mukesh Mohania"
     title: "Document Chunking and Learning Objective Generation for Instruction Design"
@@ -454,7 +582,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of the CoNLL 2018 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies"
     booktitle-full: "Proceedings of the CoNLL 2018 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies"
-    docurl: "https://www.aclweb.org/anthology/K18-2008/"
+    docurl: "https://doi.org/10.18653/v1/k18-2008"
   - layout: paper
     author: "Zhe Ye, Fang Li and Timothy Baldwin"
     title: "Encoding Sentiment Information into Word Vectors for Sentiment Analysis"
@@ -470,7 +598,7 @@ papers:
     paper-type: inproceedings
     booktitle: "BioNLP 2018"
     booktitle-full: "Proceedings of the BioNLP 2018 workshop"
-    docurl: "https://www.aclweb.org/anthology/W18-2314/"
+    docurl: "https://doi.org/10.18653/v1/w18-2314"
   - layout: paper
     author: "Piyapong Khumrin, Anna Ryan, Terry Judd and Karin Verspoor"
     title: "DrKnow: A Diagnostic Learning Tool with Feedback from Automated Clinical Decision Support"
@@ -486,7 +614,7 @@ papers:
     paper-type: inproceedings
     booktitle: "NUT@EMNLP 2018"
     booktitle-full: "Proceedings of the 4th Workshop on Noisy User-generated Text"
-    docurl: "https://www.aclweb.org/anthology/W18-6119/"
+    docurl: "https://doi.org/10.18653/v1/w18-6119"
   - layout: paper
     author: "Taro Miyazaki, Afshin Rahimi, Trevor Cohn and Timothy Baldwin"
     title: "Twitter Geolocation using Knowledge-Based Methods"
@@ -494,7 +622,7 @@ papers:
     paper-type: inproceedings
     booktitle: "NUT@EMNLP 2018"
     booktitle-full: "Proceedings of the 4th Workshop on Noisy User-generated Text"
-    docurl: "https://www.aclweb.org/anthology/W18-6102/"
+    docurl: "https://doi.org/10.18653/v1/w18-6102"
   - layout: paper
     author: "Cong Hoang, Philipp Koehn, Gholamreza Haffari and Trevor Cohn"
     title: "Iterative Back-Translation for Neural Machine Translation"
@@ -502,7 +630,7 @@ papers:
     paper-type: inproceedings
     booktitle: "NMT@ACL 2018"
     booktitle-full: "Proceedings of the 2nd Workshop on Neural Machine Translation and Generation"
-    docurl: "https://www.aclweb.org/anthology/W18-2703/"
+    docurl: "https://doi.org/10.18653/v1/w18-2703"
   - layout: paper
     author: "Shivashankar Subramanian, Timothy Baldwin and Trevor Cohn"
     title: "Content-based Popularity Prediction of Online Petitions Using a Deep Regression Model"
@@ -574,7 +702,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of the Ninth International Workshop on Health Text Mining and Information Analysis"
     booktitle-full: "Proceedings of the Ninth International Workshop on Health Text Mining and Information Analysis"
-    docurl: "https://www.aclweb.org/anthology/W18-5605/"
+    docurl: "https://doi.org/10.18653/v1/w18-5605"
   - layout: paper
     author: "Navnita Nandakumar, Bahar Salehi and Timothy Baldwin"
     title: "A Comparative Study of Embedding Models in Predicting the Compositionality of Multiword Expressions"
@@ -702,7 +830,7 @@ papers:
     paper-type: inproceedings
     booktitle: "WMT 2017"
     booktitle-full: "Proceedings of the Second Conference on Machine Translation"
-    docurl: "https://www.aclweb.org/anthology/W17-4719/"
+    docurl: "https://doi.org/10.18653/v1/w17-4719"
   - layout: paper
     author: "Damiano Spina, Maria Maistro, Yongli Ren, Sargol Sadeghi, Wilson Wong, Timothy Baldwin, Lawrence Cavedon, Alistair Moffat, Mark Sanderson, Falk Scholer and Justin Zobel"
     title: "Understanding User Behavior in Job and Talent Search: An Initial Investigation"
@@ -726,7 +854,7 @@ papers:
     paper-type: inproceedings
     booktitle: "MWE@EACL 2017"
     booktitle-full: "Proceedings of the 13th Workshop on Multiword Expressions"
-    docurl: "https://www.aclweb.org/anthology/W17-1726/"
+    docurl: "https://doi.org/10.18653/v1/w17-1726"
   - layout: paper
     author: "Philip Kiossoglou, Ann Borda, Kathleen Gray, Fernando Martin-Sanchez, Karin Verspoor and Guillermo Lopez-Campos"
     title: "Characterising the Scope of Exposome Research: A Generalisable Approach"
@@ -814,7 +942,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of the First Workshop on Subword and Character Level Models in NLP"
     booktitle-full: "Proceedings of the First Workshop on Subword and Character Level Models in NLP"
-    docurl: "https://www.aclweb.org/anthology/W17-4115/"
+    docurl: "https://doi.org/10.18653/v1/w17-4115"
   - layout: paper
     author: "Afshin Rahimi, Timothy Baldwin and Trevor Cohn"
     title: "Continuous Representation of Location for Geolocation and Lexical Dialectology using Mixture Density Networks"
@@ -822,7 +950,7 @@ papers:
     paper-type: inproceedings
     booktitle: "EMNLP 2017"
     booktitle-full: "Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing"
-    docurl: "https://www.aclweb.org/anthology/D17-1016/"
+    docurl: "https://doi.org/10.18653/v1/d17-1016"
   - layout: paper
     author: "Viet Nguyen, Julian Brooke and Timothy Baldwin"
     title: "Sub-character Neural Language Modelling in Japanese"
@@ -830,7 +958,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of the First Workshop on Subword and Character Level Models in NLP"
     booktitle-full: "Proceedings of the First Workshop on Subword and Character Level Models in NLP"
-    docurl: "https://www.aclweb.org/anthology/W17-4122/"
+    docurl: "https://doi.org/10.18653/v1/w17-4122"
   - layout: paper
     author: "Nitika Mathur, Timothy Baldwin and Trevor Cohn"
     title: "Sequence Effects in Crowdsourced Annotations"
@@ -838,7 +966,7 @@ papers:
     paper-type: inproceedings
     booktitle: "EMNLP 2017"
     booktitle-full: "Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing"
-    docurl: "https://www.aclweb.org/anthology/D17-1306/"
+    docurl: "https://doi.org/10.18653/v1/d17-1306"
   - layout: paper
     author: "Qingsong Ma, Yvette Graham, Timothy Baldwin and Qun Liu"
     title: "Further Investigation into Reference Bias in Monolingual Evaluation of Machine Translation"
@@ -846,7 +974,7 @@ papers:
     paper-type: inproceedings
     booktitle: "EMNLP 2017"
     booktitle-full: "Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing"
-    docurl: "https://www.aclweb.org/anthology/D17-1262/"
+    docurl: "https://doi.org/10.18653/v1/d17-1262"
   - layout: paper
     author: "Cong Hoang, Gholamreza Haffari and Trevor Cohn"
     title: "Towards Decoding as Continuous Optimisation in Neural Machine Translation"
@@ -854,7 +982,7 @@ papers:
     paper-type: inproceedings
     booktitle: "EMNLP 2017"
     booktitle-full: "Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing"
-    docurl: "https://www.aclweb.org/anthology/D17-1014/"
+    docurl: "https://doi.org/10.18653/v1/d17-1014"
   - layout: paper
     author: "Lea Frermann and Gyorgy Szarvas"
     title: "Inducing Semantic Micro-Clusters from Deep Multi-View Representations of Novels"
@@ -862,7 +990,7 @@ papers:
     paper-type: inproceedings
     booktitle: "EMNLP 2017"
     booktitle-full: "Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing"
-    docurl: "https://www.aclweb.org/anthology/D17-1200/"
+    docurl: "https://doi.org/10.18653/v1/d17-1200"
   - layout: paper
     author: "Meng Fang, Yuan Li and Trevor Cohn"
     title: "Learning how to Active Learn: A Deep Reinforcement Learning Approach"
@@ -870,55 +998,55 @@ papers:
     paper-type: inproceedings
     booktitle: "EMNLP 2017"
     booktitle-full: "Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing"
-    docurl: "https://www.aclweb.org/anthology/D17-1063/"
+    docurl: "https://doi.org/10.18653/v1/d17-1063"
   - layout: paper
-    author: "Hiroshi Kanayama, Trevor Cohn, Tengfei Ma, Steven Bird and Long Duong"
+    author: "Long Duong, Hiroshi Kanayama, Tengfei Ma, Steven Bird and Trevor Cohn"
     title: "Multilingual Training of Crosslingual Word Embeddings"
     year: "2017"
     paper-type: inproceedings
     booktitle: "EACL 2017"
     booktitle-full: "Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics"
-    docurl: "https://www.aclweb.org/anthology/E17-1084/"
+    docurl: "https://doi.org/10.18653/v1/e17-1084"
   - layout: paper
-    author: "Trevor Cohn, Steven Bird, Graham Neubig, Oliver Adams and Adam Makarucha"
+    author: "Oliver Adams, Adam Makarucha, Graham Neubig, Steven Bird and Trevor Cohn"
     title: "Cross-Lingual Word Embeddings for Low-Resource Language Modeling"
     year: "2017"
     paper-type: inproceedings
     booktitle: "EACL 2017"
     booktitle-full: "Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics"
-    docurl: "https://www.aclweb.org/anthology/E17-1088/"
+    docurl: "https://doi.org/10.18653/v1/e17-1088"
   - layout: paper
-    author: "Timothy Baldwin, Qun Liu, Yvette Graham, Carolina Scarton, Qingsong Ma and Carla Escartin"
+    author: "Yvette Graham, Qingsong Ma, Timothy Baldwin, Qun Liu, Carla Escartin and Carolina Scarton"
     title: "Improving Evaluation of Document-level Machine Translation Quality Estimation"
     year: "2017"
     paper-type: inproceedings
     booktitle: "EACL 2017"
     booktitle-full: "Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics"
-    docurl: "https://www.aclweb.org/anthology/E17-2057/"
+    docurl: "https://doi.org/10.18653/v1/e17-2057"
   - layout: paper
-    author: "Timothy Baldwin, Jey Han Lau, Nikolaos Aletras and Ionut Sorodoc"
+    author: "Ionut Sorodoc, Jey Han Lau, Nikolaos Aletras and Timothy Baldwin"
     title: "Multimodal Topic Labelling"
     year: "2017"
     paper-type: inproceedings
     booktitle: "EACL 2017"
     booktitle-full: "Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics"
-    docurl: "https://www.aclweb.org/anthology/E17-2111/"
+    docurl: "https://doi.org/10.18653/v1/e17-2111"
   - layout: paper
-    author: "Timothy Baldwin, Trevor Cohn, Ekaterina Vylomova and Ryan Cotterell"
+    author: "Ekaterina Vylomova, Ryan Cotterell, Timothy Baldwin and Trevor Cohn"
     title: "Context-Aware Prediction of Derivational Word-forms"
     year: "2017"
     paper-type: inproceedings
     booktitle: "EACL 2017"
     booktitle-full: "Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics"
-    docurl: "https://www.aclweb.org/anthology/E17-2019/"
+    docurl: "https://doi.org/10.18653/v1/e17-2019"
   - layout: paper
-    author: "Timothy Baldwin, Trevor Cohn and Yitong Li"
+    author: "Yitong Li, Trevor Cohn and Timothy Baldwin"
     title: "Robust Training under Linguistic Adversity"
     year: "2017"
     paper-type: inproceedings
     booktitle: "EACL 2017"
     booktitle-full: "Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics"
-    docurl: "https://www.aclweb.org/anthology/E17-2004/"
+    docurl: "https://doi.org/10.18653/v1/e17-2004"
   - layout: paper
     author: "Shraey Bhatia, Jey Han Lau and Timothy Baldwin"
     title: "An Automatic Approach for Document-level Topic Model Evaluation"
@@ -990,7 +1118,7 @@ papers:
     paper-type: inproceedings
     booktitle: "Proceedings of the Workshop on Summarization and Summary Evaluation Across Source Types and Genres"
     booktitle-full: "Proceedings of the Workshop on Summarization and Summary Evaluation Across Source Types and Genres"
-    docurl: "https://www.aclweb.org/anthology/W17-1002/"
+    docurl: "https://doi.org/10.18653/v1/w17-1002"
   - layout: paper
     author: "Shivashankar Subramanian, Trevor Cohn, Timothy Baldwin and Julian Brooke"
     title: "Joint Sentence-Document Model for Manifesto Text Analysis"
@@ -1056,7 +1184,7 @@ papers:
     volume: 16
     docurl: "https://doi.org/10.1186/s12911-016-0294-3"
   - layout: paper
-    author: "Simone Romano, Nguyen Vinh, James Bailey and Karin Verspoor"
+    author: "Simone Romano, Xuan Nguyen, James Bailey and Karin Verspoor"
     title: "Adjusting for Chance Clustering Comparison Measures"
     year: "2016"
     paper-type: article
@@ -1126,7 +1254,7 @@ papers:
     paper-type: inproceedings
     booktitle: "WMT 2016"
     booktitle-full: "Proceedings of the First Conference on Machine Translation"
-    docurl: "https://www.aclweb.org/anthology/W16-2391/"
+    docurl: "https://doi.org/10.18653/v1/w16-2391"
   - layout: paper
     author: "Ondrej Bojar, Rajen Chatterjee, Christian Federmann, Yvette Graham, Barry Haddow, Matthias Huck, Antonio Jimeno-Yepes, Philipp Koehn, Varvara Logacheva, Christof Monz, Matteo Negri, Aurelie Neveol, Mariana Neves, Martin Popel, Matt Post, Raphael Rubino, Carolina Scarton, Lucia Specia, Marco Turchi, Karin Verspoor and Marcos Zampieri"
     title: "Findings of the 2016 Conference on Machine Translation"
@@ -1134,7 +1262,7 @@ papers:
     paper-type: inproceedings
     booktitle: "WMT 2016"
     booktitle-full: "Proceedings of the First Conference on Machine Translation"
-    docurl: "https://www.aclweb.org/anthology/W16-2301/"
+    docurl: "https://doi.org/10.18653/v1/w16-2301"
   - layout: paper
     author: "Daniel Beck, Andreas Vlachos, Gustavo Paetzold and Lucia Specia"
     title: "SHEF-MIME: Word-level Quality Estimation Using Imitation Learning"
@@ -1142,7 +1270,7 @@ papers:
     paper-type: inproceedings
     booktitle: "WMT 2016"
     booktitle-full: "Proceedings of the First Conference on Machine Translation"
-    docurl: "https://www.aclweb.org/anthology/W16-2381/"
+    docurl: "https://doi.org/10.18653/v1/w16-2381"
   - layout: paper
     author: "Walid Magdy, Kareem Darwish, Norah Abokhodair, Afshin Rahimi and Timothy Baldwin"
     title: "#ISISisNotIslam or #DeportAllMuslims?: predicting unspoken views"
@@ -1174,7 +1302,7 @@ papers:
     paper-type: inproceedings
     booktitle: "SEMEVAL 2016"
     booktitle-full: "Proceedings of the 10th International Workshop on Semantic Evaluation"
-    docurl: "https://www.aclweb.org/anthology/S16-1120/"
+    docurl: "https://doi.org/10.18653/v1/s16-1120"
   - layout: paper
     author: "Steven Xu, Huizhi Liang and Timothy Baldwin"
     title: "UNIMELB at SemEval-2016 Tasks 4A and 4B: An Ensemble of Neural Networks and a Word2Vec Based Model for Sentiment Classification"
@@ -1182,7 +1310,7 @@ papers:
     paper-type: inproceedings
     booktitle: "SEMEVAL 2016"
     booktitle-full: "Proceedings of the 10th International Workshop on Semantic Evaluation"
-    docurl: "https://www.aclweb.org/anthology/S16-1027/"
+    docurl: "https://doi.org/10.18653/v1/s16-1027"
   - layout: paper
     author: "Andreas Scherbakov, Ekaterina Vylomova, Fei Liu and Timothy Baldwin"
     title: "VectorWeavers at SemEval-2016 Task 10: From Incremental Meaning to Semantic Unit (phrase by phrase)"
@@ -1190,7 +1318,7 @@ papers:
     paper-type: inproceedings
     booktitle: "SEMEVAL 2016"
     booktitle-full: "Proceedings of the 10th International Workshop on Semantic Evaluation"
-    docurl: "https://www.aclweb.org/anthology/S16-1145/"
+    docurl: "https://doi.org/10.18653/v1/s16-1145"
   - layout: paper
     author: "Julian Brooke, Alexandra Uitdenbogerd and Timothy Baldwin"
     title: "Melbourne at SemEval 2016 Task 11: Classifying Type-level Word Complexity using Random Forests with Corpus and Word List Features"
@@ -1198,7 +1326,7 @@ papers:
     paper-type: inproceedings
     booktitle: "SEMEVAL 2016"
     booktitle-full: "Proceedings of the 10th International Workshop on Semantic Evaluation"
-    docurl: "https://www.aclweb.org/anthology/S16-1150/"
+    docurl: "https://doi.org/10.18653/v1/s16-1150"
   - layout: paper
     author: "Timothy Baldwin, Huizhi Liang, Bahar Salehi, Doris Hoogeveen, Yitong Li and Long Duong"
     title: "UniMelb at SemEval-2016 Task 3: Identifying Similar Questions by combining a CNN with String Similarity Measures"
@@ -1206,7 +1334,7 @@ papers:
     paper-type: inproceedings
     booktitle: "SEMEVAL 2016"
     booktitle-full: "Proceedings of the 10th International Workshop on Semantic Evaluation"
-    docurl: "https://www.aclweb.org/anthology/S16-1131/"
+    docurl: "https://doi.org/10.18653/v1/s16-1131"
   - layout: paper
     author: "Ahmet Aker, Frederic Blain, Andres Duque, Marina Fomicheva, Jurica Seva, Kashif Shah and Daniel Beck"
     title: "USFD at SemEval-2016 Task 1: Putting different State-of-the-Arts into a Box"
@@ -1214,9 +1342,9 @@ papers:
     paper-type: inproceedings
     booktitle: "SEMEVAL 2016"
     booktitle-full: "Proceedings of the 10th International Workshop on Semantic Evaluation"
-    docurl: "https://www.aclweb.org/anthology/S16-1092/"
+    docurl: "https://doi.org/10.18653/v1/s16-1092"
   - layout: paper
-    author: "Simone Romano, Nguyen Vinh, James Bailey and Karin Verspoor"
+    author: "Simone Romano, Xuan Nguyen, James Bailey and Karin Verspoor"
     title: "A Framework to Adjust Dependency Measure Estimates for Chance"
     year: "2016"
     paper-type: inproceedings
@@ -1262,7 +1390,7 @@ papers:
     paper-type: inproceedings
     booktitle: "NAACL HLT 2016"
     booktitle-full: "The 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies"
-    docurl: "https://www.aclweb.org/anthology/N16-1057/"
+    docurl: "https://doi.org/10.18653/v1/n16-1057"
   - layout: paper
     author: "Cong Hoang, Trevor Cohn and Gholamreza Haffari"
     title: "Incorporating Side Information into Recurrent Neural Network Language Models"
@@ -1270,7 +1398,7 @@ papers:
     paper-type: inproceedings
     booktitle: "NAACL HLT 2016"
     booktitle-full: "The 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies"
-    docurl: "https://www.aclweb.org/anthology/N16-1149/"
+    docurl: "https://doi.org/10.18653/v1/n16-1149"
   - layout: paper
     author: "Long Duong, Antonios Anastasopoulos, David Chiang, Steven Bird and Trevor Cohn"
     title: "An Attentional Model for Speech Translation Without Transcription"
@@ -1278,7 +1406,7 @@ papers:
     paper-type: inproceedings
     booktitle: "NAACL HLT 2016"
     booktitle-full: "The 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies"
-    docurl: "https://www.aclweb.org/anthology/N16-1109/"
+    docurl: "https://doi.org/10.18653/v1/n16-1109"
   - layout: paper
     author: "Trevor Cohn, Cong Hoang, Ekaterina Vymolova, Kaisheng Yao, Chris Dyer and Gholamreza Haffari"
     title: "Incorporating Structural Alignment Biases into an Attentional Neural Translation Model"
@@ -1286,7 +1414,7 @@ papers:
     paper-type: inproceedings
     booktitle: "NAACL HLT 2016"
     booktitle-full: "The 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies"
-    docurl: "https://www.aclweb.org/anthology/N16-1102/"
+    docurl: "https://doi.org/10.18653/v1/n16-1102"
   - layout: paper
     author: "Daniel Beck, Adria Gispert, Gonzalo Iglesias, Aurelien Waite and Bill Byrne"
     title: "Speed-Constrained Tuning for Statistical Machine Translation Using Bayesian Optimization"
@@ -1294,7 +1422,7 @@ papers:
     paper-type: inproceedings
     booktitle: "NAACL HLT 2016"
     booktitle-full: "The 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies"
-    docurl: "https://www.aclweb.org/anthology/N16-1100/"
+    docurl: "https://doi.org/10.18653/v1/n16-1100"
   - layout: paper
     author: "Daniel Preotiuc-Pietro, P. Srijith, Mark Hepple and Trevor Cohn"
     title: "Studying the Temporal Dynamics of Word Co-occurrences: An Application to Event Detection"
@@ -1342,7 +1470,7 @@ papers:
     paper-type: inproceedings
     booktitle: "EMNLP 2016"
     booktitle-full: "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing"
-    docurl: "https://www.aclweb.org/anthology/D16-1094/"
+    docurl: "https://doi.org/10.18653/v1/d16-1094"
   - layout: paper
     author: "Lizhen Qu, Gabriela Ferraro, Liyuan Zhou, Weiwei Hou and Timothy Baldwin"
     title: "Named Entity Recognition for Novel Types by Transfer Learning"
@@ -1350,7 +1478,7 @@ papers:
     paper-type: inproceedings
     booktitle: "EMNLP 2016"
     booktitle-full: "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing"
-    docurl: "https://www.aclweb.org/anthology/D16-1087/"
+    docurl: "https://doi.org/10.18653/v1/d16-1087"
   - layout: paper
     author: "Yitong Li, Trevor Cohn and Timothy Baldwin"
     title: "Learning Robust Representations of Text"
@@ -1358,7 +1486,7 @@ papers:
     paper-type: inproceedings
     booktitle: "EMNLP 2016"
     booktitle-full: "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing"
-    docurl: "https://www.aclweb.org/anthology/D16-1207/"
+    docurl: "https://doi.org/10.18653/v1/d16-1207"
   - layout: paper
     author: "Long Duong, Hiroshi Kanayama, Tengfei Ma, Steven Bird and Trevor Cohn"
     title: "Learning Crosslingual Word Embeddings without Bilingual Corpora"
@@ -1366,7 +1494,7 @@ papers:
     paper-type: inproceedings
     booktitle: "EMNLP 2016"
     booktitle-full: "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing"
-    docurl: "https://www.aclweb.org/anthology/D16-1136/"
+    docurl: "https://doi.org/10.18653/v1/d16-1136"
   - layout: paper
     author: "Oliver Adams, Graham Neubig, Trevor Cohn, Steven Bird, Quoc Do and Satoshi Nakamura"
     title: "Learning a Lexicon and Translation Model from Phoneme Lattices"
@@ -1374,7 +1502,7 @@ papers:
     paper-type: inproceedings
     booktitle: "EMNLP 2016"
     booktitle-full: "Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing"
-    docurl: "https://www.aclweb.org/anthology/D16-1263/"
+    docurl: "https://doi.org/10.18653/v1/d16-1263"
   - layout: paper
     author: "Meng Fang and Trevor Cohn"
     title: "Learning when to trust distant supervision: An application to low-resource POS tagging using cross-lingual projection"
@@ -1382,7 +1510,7 @@ papers:
     paper-type: inproceedings
     booktitle: "CoNLL 2016"
     booktitle-full: "Proceedings of the 20th SIGNLL Conference on Computational Natural Language Learning"
-    docurl: "https://www.aclweb.org/anthology/K16-1018/"
+    docurl: "https://doi.org/10.18653/v1/k16-1018"
   - layout: paper
     author: "Daniel Beck, Lucia Specia and Trevor Cohn"
     title: "Exploring Prediction Uncertainty in Machine Translation Quality Estimation"
@@ -1390,7 +1518,7 @@ papers:
     paper-type: inproceedings
     booktitle: "CoNLL 2016"
     booktitle-full: "Proceedings of the 20th SIGNLL Conference on Computational Natural Language Learning"
-    docurl: "https://www.aclweb.org/anthology/K16-1021/"
+    docurl: "https://doi.org/10.18653/v1/k16-1021"
   - layout: paper
     author: "Bahar Salehi, Paul Cook and Timothy Baldwin"
     title: "Determining the Multiword Expression Inventory of a Surprise Language"
@@ -1454,7 +1582,7 @@ papers:
     paper-type: inproceedings
     booktitle: "ACL 2016"
     booktitle-full: "Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics"
-    docurl: "https://www.aclweb.org/anthology/P16-1158/"
+    docurl: "https://doi.org/10.18653/v1/p16-1158"
   - layout: paper
     author: "Afshin Rahimi, Trevor Cohn and Timothy Baldwin"
     title: "pigeo: A Python Geotagging Tool"
@@ -1470,7 +1598,7 @@ papers:
     paper-type: inproceedings
     booktitle: "ACL 2016"
     booktitle-full: "Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics"
-    docurl: "https://www.aclweb.org/anthology/P16-2064/"
+    docurl: "https://doi.org/10.18653/v1/p16-2064"
   - layout: paper
     author: "Julian Brooke, Adam Hammond and Timothy Baldwin"
     title: "Bootstrapped Text-level Named Entity Recognition for Literature"
@@ -1478,7 +1606,7 @@ papers:
     paper-type: inproceedings
     booktitle: "ACL 2016"
     booktitle-full: "Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics"
-    docurl: "https://www.aclweb.org/anthology/P16-2056/"
+    docurl: "https://doi.org/10.18653/v1/p16-2056"
   - layout: paper
     author: "Andrew Bennett, Timothy Baldwin, Jey Han Lau, Diana McCarthy and Francis Bond"
     title: "LexSemTm: A Semantic Dataset Based on All-words Unsupervised Sense Distribution Learning"
@@ -1486,7 +1614,7 @@ papers:
     paper-type: inproceedings
     booktitle: "ACL 2016"
     booktitle-full: "Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics"
-    docurl: "https://www.aclweb.org/anthology/P16-1143/"
+    docurl: "https://doi.org/10.18653/v1/p16-1143"
   - layout: paper
     author: "Cong Hoang, Reza Haffari and Trevor Cohn"
     title: "Improving Neural Translation Models with Linguistic Factors"
@@ -1606,7 +1734,7 @@ papers:
     paper-type: inproceedings
     booktitle: "WMT@EMNLP 2015"
     booktitle-full: "Proceedings of the Tenth Workshop on Statistical Machine Translation"
-    docurl: "https://www.aclweb.org/anthology/W15-3041/"
+    docurl: "https://doi.org/10.18653/v1/w15-3041"
   - layout: paper
     author: "Clint Burford, Steven Bird and Timothy Baldwin"
     title: "Collective Document Classification with Implicit Inter-document Semantic Relationships"
@@ -1614,7 +1742,7 @@ papers:
     paper-type: inproceedings
     booktitle: "*SEM 2015"
     booktitle-full: "Proceedings of the Fourth Joint Conference on Lexical and Computational Semantics"
-    docurl: "https://www.aclweb.org/anthology/S15-1012/"
+    docurl: "https://doi.org/10.18653/v1/s15-1012"
   - layout: paper
     author: "Huizhi Liang, Richard Fothergill and Timothy Baldwin"
     title: "RoseMerry: A Baseline Message-level Sentiment Classification System"
@@ -1622,7 +1750,7 @@ papers:
     paper-type: inproceedings
     booktitle: "SEMEVAL 2015"
     booktitle-full: "Proceedings of the 9th International Workshop on Semantic Evaluation"
-    docurl: "https://www.aclweb.org/anthology/S15-2092/"
+    docurl: "https://doi.org/10.18653/v1/s15-2092"
   - layout: paper
     author: "Ehsan Shareghi, Gholamreza Haffari, Trevor Cohn and Ann Nicholson"
     title: "Structured Prediction of Sequences and Trees Using Infinite Contexts"
@@ -1646,7 +1774,7 @@ papers:
     paper-type: inproceedings
     booktitle: "NAACL HLT 2015"
     booktitle-full: "The 2015 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies"
-    docurl: "https://www.aclweb.org/anthology/N15-1099/"
+    docurl: "https://doi.org/10.3115/v1/n15-1099"
   - layout: paper
     author: "Afshin Rahimi, Duy Vu, Trevor Cohn and Timothy Baldwin"
     title: "Exploiting Text and Network Context for Geolocation of Social Media Users"
@@ -1654,7 +1782,7 @@ papers:
     paper-type: inproceedings
     booktitle: "NAACL HLT 2015"
     booktitle-full: "The 2015 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies"
-    docurl: "https://www.aclweb.org/anthology/N15-1153/"
+    docurl: "https://doi.org/10.3115/v1/n15-1153"
   - layout: paper
     author: "Yvette Graham, Timothy Baldwin and Nitika Mathur"
     title: "Accurate Evaluation of Segment-level Machine Translation Metrics"
@@ -1662,7 +1790,7 @@ papers:
     paper-type: inproceedings
     booktitle: "NAACL HLT 2015"
     booktitle-full: "The 2015 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies"
-    docurl: "https://www.aclweb.org/anthology/N15-1124/"
+    docurl: "https://doi.org/10.3115/v1/n15-1124"
   - layout: paper
     author: "Lea Frermann and Mirella Lapata"
     title: "A Bayesian Model for Joint Learning of Categories and their Features"
@@ -1670,7 +1798,7 @@ papers:
     paper-type: inproceedings
     booktitle: "NAACL HLT 2015"
     booktitle-full: "The 2015 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies"
-    docurl: "https://www.aclweb.org/anthology/N15-1181/"
+    docurl: "https://doi.org/10.3115/v1/n15-1181"
   - layout: paper
     author: "Bahar Salehi, Nitika Mathur, Paul Cook and Timothy Baldwin"
     title: "The Impact of Multiword Expression Compositionality on Machine Translation Evaluation"
@@ -1678,7 +1806,7 @@ papers:
     paper-type: inproceedings
     booktitle: "MWE@NAACL-HLT 2015"
     booktitle-full: "Proceedings of the 11th Workshop on Multiword Expressions"
-    docurl: "https://www.aclweb.org/anthology/W15-0909/"
+    docurl: "https://doi.org/10.3115/v1/w15-0909"
   - layout: paper
     author: "Andre Dittrich, Maria Vasardani, Stephan Winter, Timothy Baldwin and Fei Liu"
     title: "A Classification Schema for Fast Disambiguation of Spatial Prepositions"
@@ -1694,7 +1822,7 @@ papers:
     paper-type: inproceedings
     booktitle: "EMNLP 2015"
     booktitle-full: "Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing"
-    docurl: "https://www.aclweb.org/anthology/D15-1288/"
+    docurl: "https://doi.org/10.18653/v1/d15-1288"
   - layout: paper
     author: "Michal Lukasik, P. Srijith, Trevor Cohn and Kalina Bontcheva"
     title: "Modeling Tweet Arrival Times using Log-Gaussian Cox Processes"
@@ -1702,7 +1830,7 @@ papers:
     paper-type: inproceedings
     booktitle: "EMNLP 2015"
     booktitle-full: "Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing"
-    docurl: "https://www.aclweb.org/anthology/D15-1028/"
+    docurl: "https://doi.org/10.18653/v1/d15-1028"
   - layout: paper
     author: "Michal Lukasik, Trevor Cohn and Kalina Bontcheva"
     title: "Classifying Tweet Level Judgements of Rumours in Social Media"
@@ -1710,7 +1838,7 @@ papers:
     paper-type: inproceedings
     booktitle: "EMNLP 2015"
     booktitle-full: "Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing"
-    docurl: "https://www.aclweb.org/anthology/D15-1311/"
+    docurl: "https://doi.org/10.18653/v1/d15-1311"
   - layout: paper
     author: "Long Duong, Trevor Cohn, Steven Bird and Paul Cook"
     title: "A Neural Network Model for Low-Resource Universal Dependency Parsing"
@@ -1718,7 +1846,7 @@ papers:
     paper-type: inproceedings
     booktitle: "EMNLP 2015"
     booktitle-full: "Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing"
-    docurl: "https://www.aclweb.org/anthology/D15-1040/"
+    docurl: "https://doi.org/10.18653/v1/d15-1040"
   - layout: paper
     author: "Lizhen Qu, Gabriela Ferraro, Liyuan Zhou, Weiwei Hou, Nathan Schneider and Timothy Baldwin"
     title: "Big Data Small Data, In Domain Out-of Domain, Known Word Unknown Word: The Impact of Word Representations on Sequence Labelling Tasks"
@@ -1726,7 +1854,7 @@ papers:
     paper-type: inproceedings
     booktitle: "CoNLL 2015"
     booktitle-full: "Proceedings of the 19th Conference on Computational Natural Language Learning"
-    docurl: "https://www.aclweb.org/anthology/K15-1009/"
+    docurl: "https://doi.org/10.18653/v1/k15-1009"
   - layout: paper
     author: "Long Duong, Trevor Cohn, Steven Bird and Paul Cook"
     title: "Cross-lingual Transfer for Unsupervised Dependency Parsing Without Parallel Data"
@@ -1734,7 +1862,7 @@ papers:
     paper-type: inproceedings
     booktitle: "CoNLL 2015"
     booktitle-full: "Proceedings of the 19th Conference on Computational Natural Language Learning"
-    docurl: "https://www.aclweb.org/anthology/K15-1012/"
+    docurl: "https://doi.org/10.18653/v1/k15-1012"
   - layout: paper
     author: "Karin Verspoor, Go Heo, Keun Kang and Min Song"
     title: "Extraction of Fine-grained Semantic Relations for the Human Variome"
@@ -1814,7 +1942,7 @@ papers:
     paper-type: inproceedings
     booktitle: "ACL 2015"
     booktitle-full: "Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing of the Asian Federation of Natural Language Processing"
-    docurl: "https://www.aclweb.org/anthology/P15-2104/"
+    docurl: "https://doi.org/10.3115/v1/p15-2104"
   - layout: paper
     author: "Michal Lukasik, Trevor Cohn and Kalina Bontcheva"
     title: "Point Process Modelling of Rumour Dynamics in Social Media"
@@ -1822,7 +1950,7 @@ papers:
     paper-type: inproceedings
     booktitle: "ACL 2015"
     booktitle-full: "Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing of the Asian Federation of Natural Language Processing"
-    docurl: "https://www.aclweb.org/anthology/P15-2085/"
+    docurl: "https://doi.org/10.3115/v1/p15-2085"
   - layout: paper
     author: "Jey Han Lau, Alexander Clark and Shalom Lappin"
     title: "Unsupervised Prediction of Acceptability Judgements"
@@ -1830,7 +1958,7 @@ papers:
     paper-type: inproceedings
     booktitle: "ACL 2015"
     booktitle-full: "Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing of the Asian Federation of Natural Language Processing"
-    docurl: "https://www.aclweb.org/anthology/P15-1156/"
+    docurl: "https://doi.org/10.3115/v1/p15-1156"
   - layout: paper
     author: "Long Duong, Trevor Cohn, Steven Bird and Paul Cook"
     title: "Low Resource Dependency Parsing: Cross-lingual Parameter Sharing in a Neural Network Parser"
@@ -1838,7 +1966,7 @@ papers:
     paper-type: inproceedings
     booktitle: "ACL 2015"
     booktitle-full: "Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing of the Asian Federation of Natural Language Processing"
-    docurl: "https://www.aclweb.org/anthology/P15-2139/"
+    docurl: "https://doi.org/10.3115/v1/p15-2139"
   - layout: paper
     author: "Zsolt Bitvai and Trevor Cohn"
     title: "Non-Linear Text Regression with a Deep Convolutional Neural Network"
@@ -1846,7 +1974,7 @@ papers:
     paper-type: inproceedings
     booktitle: "ACL 2015"
     booktitle-full: "Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing of the Asian Federation of Natural Language Processing"
-    docurl: "https://www.aclweb.org/anthology/P15-2030/"
+    docurl: "https://doi.org/10.3115/v1/p15-2030"
   - layout: paper
     author: "Ping Tan, Karin Verspoor and Tim Miller"
     title: "Structural Alignment as the Basis to Improve Significant Change Detection in Versioned Sentences"
@@ -1934,7 +2062,7 @@ papers:
     paper-type: inproceedings
     booktitle: "WMT@ACL 2014"
     booktitle-full: "Proceedings of the Ninth Workshop on Statistical Machine Translation"
-    docurl: "https://www.aclweb.org/anthology/W14-3333/"
+    docurl: "https://doi.org/10.3115/v1/w14-3333"
   - layout: paper
     author: "Daniel Beck, Kashif Shah and Lucia Specia"
     title: "SHEF-Lite 2.0: Sparse Multi-task Gaussian Processes for Translation Quality Estimation"
@@ -1942,7 +2070,7 @@ papers:
     paper-type: inproceedings
     booktitle: "WMT@ACL 2014"
     booktitle-full: "Proceedings of the Ninth Workshop on Statistical Machine Translation"
-    docurl: "https://www.aclweb.org/anthology/W14-3338/"
+    docurl: "https://doi.org/10.3115/v1/w14-3338"
   - layout: paper
     author: "Marco Lui, Ned Letcher, Oliver Adams, Long Duong, Paul Cook and Timothy Baldwin"
     title: "Exploring Methods and Resources for Discriminating Similar Languages"
@@ -2024,7 +2152,7 @@ papers:
     booktitle-full: "2014 International Conference on Machine Learning and Cybernetics"
     docurl: "https://doi.org/10.1109/ICMLC.2014.7009123"
   - layout: paper
-    author: "Simone Romano, James Bailey, Nguyen Vinh and Karin Verspoor"
+    author: "Simone Romano, James Bailey, Xuan Nguyen and Karin Verspoor"
     title: "Standardized Mutual Information for Clustering Comparisons: One Step Further in Adjustment for Chance"
     year: "2014"
     paper-type: inproceedings
@@ -2062,7 +2190,7 @@ papers:
     paper-type: inproceedings
     booktitle: "EMNLP 2014"
     booktitle-full: "Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing"
-    docurl: "https://www.aclweb.org/anthology/D14-1189/"
+    docurl: "https://doi.org/10.3115/v1/d14-1189"
   - layout: paper
     author: "Yvette Graham and Timothy Baldwin"
     title: "Testing for Significance of Increased Correlation with Human Judgment"
@@ -2070,7 +2198,7 @@ papers:
     paper-type: inproceedings
     booktitle: "EMNLP 2014"
     booktitle-full: "Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing"
-    docurl: "https://www.aclweb.org/anthology/D14-1020/"
+    docurl: "https://doi.org/10.3115/v1/d14-1020"
   - layout: paper
     author: "Long Duong, Trevor Cohn, Karin Verspoor, Steven Bird and Paul Cook"
     title: "What Can We Get From 1000 Tokens? A Case Study of Multilingual POS Tagging For Resource-Poor Languages"
@@ -2078,7 +2206,7 @@ papers:
     paper-type: inproceedings
     booktitle: "EMNLP 2014"
     booktitle-full: "Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing"
-    docurl: "https://www.aclweb.org/anthology/D14-1096/"
+    docurl: "https://doi.org/10.3115/v1/d14-1096"
   - layout: paper
     author: "Daniel Beck, Trevor Cohn and Lucia Specia"
     title: "Joint Emotion Analysis via Multi-task Gaussian Processes"
@@ -2086,7 +2214,7 @@ papers:
     paper-type: inproceedings
     booktitle: "EMNLP 2014"
     booktitle-full: "Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing"
-    docurl: "https://www.aclweb.org/anthology/D14-1190/"
+    docurl: "https://doi.org/10.3115/v1/d14-1190"
   - layout: paper
     author: "Bahar Salehi, Paul Cook and Timothy Baldwin"
     title: "Using Distributional Similarity of Multi-way Translations to Predict Multiword Expression Compositionality"
@@ -2094,7 +2222,7 @@ papers:
     paper-type: inproceedings
     booktitle: "EACL 2014"
     booktitle-full: "Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics"
-    docurl: "https://www.aclweb.org/anthology/E14-1050/"
+    docurl: "https://doi.org/10.3115/v1/e14-1050"
   - layout: paper
     author: "Jey Han Lau, David Newman and Timothy Baldwin"
     title: "Machine Reading Tea Leaves: Automatically Evaluating Topic Coherence and Topic Model Quality"
@@ -2102,7 +2230,7 @@ papers:
     paper-type: inproceedings
     booktitle: "EACL 2014"
     booktitle-full: "Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics"
-    docurl: "https://www.aclweb.org/anthology/E14-1056/"
+    docurl: "https://doi.org/10.3115/v1/e14-1056"
   - layout: paper
     author: "Vasileios Lampos, Nikolaos Aletras, Daniel Preotiuc-Pietro and Trevor Cohn"
     title: "Predicting and Characterising User Impact on Twitter"
@@ -2110,7 +2238,7 @@ papers:
     paper-type: inproceedings
     booktitle: "EACL 2014"
     booktitle-full: "Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics"
-    docurl: "https://www.aclweb.org/anthology/E14-1043/"
+    docurl: "https://doi.org/10.3115/v1/e14-1043"
   - layout: paper
     author: "Yvette Graham, Timothy Baldwin, Alistair Moffat and Justin Zobel"
     title: "Is Machine Translation Getting Better over Time?"
@@ -2118,7 +2246,7 @@ papers:
     paper-type: inproceedings
     booktitle: "EACL 2014"
     booktitle-full: "Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics"
-    docurl: "https://www.aclweb.org/anthology/E14-1047/"
+    docurl: "https://doi.org/10.3115/v1/e14-1047"
   - layout: paper
     author: "Spandana Gella, Paul Cook and Timothy Baldwin"
     title: "One Sense per Tweeter ... and Other Lexical Semantic Tales of Twitter"
@@ -2126,7 +2254,7 @@ papers:
     paper-type: inproceedings
     booktitle: "EACL 2014"
     booktitle-full: "Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics"
-    docurl: "https://www.aclweb.org/anthology/E14-4042/"
+    docurl: "https://doi.org/10.3115/v1/e14-4042"
   - layout: paper
     author: "Lea Frermann, Ivan Titov and Manfred Pinkal"
     title: "A Hierarchical Bayesian Model for Unsupervised Induction of Script Knowledge"
@@ -2134,7 +2262,7 @@ papers:
     paper-type: inproceedings
     booktitle: "EACL 2014"
     booktitle-full: "Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics"
-    docurl: "https://www.aclweb.org/anthology/E14-1006/"
+    docurl: "https://doi.org/10.3115/v1/e14-1006"
   - layout: paper
     author: "Lea Frermann and Mirella Lapata"
     title: "Incremental Bayesian Learning of Semantic Categories"
@@ -2142,7 +2270,7 @@ papers:
     paper-type: inproceedings
     booktitle: "EACL 2014"
     booktitle-full: "Proceedings of the 14th Conference of the European Chapter of the Association for Computational Linguistics"
-    docurl: "https://www.aclweb.org/anthology/E14-1027/"
+    docurl: "https://doi.org/10.3115/v1/e14-1027"
   - layout: paper
     author: "Yang Feng, Trevor Cohn and Xinkai Du"
     title: "Factored Markov Translation with Robust Modeling"
@@ -2150,7 +2278,7 @@ papers:
     paper-type: inproceedings
     booktitle: "CoNLL 2014"
     booktitle-full: "Proceedings of the Eighteenth Conference on Computational Natural Language Learning"
-    docurl: "https://www.aclweb.org/anthology/W14-1616/"
+    docurl: "https://doi.org/10.3115/v1/w14-1616"
   - layout: paper
     author: "Dominique Estival, Steve Cassidy, Karin Verspoor, Andrew MacKinlay and Denis Burnham"
     title: "Integrating UIMA with Alveo, a human communication science virtual laboratory"
@@ -2182,7 +2310,7 @@ papers:
     paper-type: inproceedings
     booktitle: "ACL 2014"
     booktitle-full: "Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics"
-    docurl: "https://www.aclweb.org/anthology/P14-1025/"
+    docurl: "https://doi.org/10.3115/v1/p14-1025"
   - layout: paper
     author: "Vasileios Lampos, Daniel Preotiuc-Pietro, Sina Samangooei, Douwe Gelling and Trevor Cohn"
     title: "Extracting Socioeconomic Patterns from the News: Modelling Text and Outlet Importance Jointly"
@@ -2198,7 +2326,7 @@ papers:
     paper-type: inproceedings
     booktitle: "ACL 2014"
     booktitle-full: "Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics"
-    docurl: "https://www.aclweb.org/anthology/P14-2016/"
+    docurl: "https://doi.org/10.3115/v1/p14-2016"
   - layout: paper
     author: "Douwe Gelling and Trevor Cohn"
     title: "Simple extensions and POS Tags for a reparameterised IBM Model 2"
@@ -2206,7 +2334,7 @@ papers:
     paper-type: inproceedings
     booktitle: "ACL 2014"
     booktitle-full: "Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics"
-    docurl: "https://www.aclweb.org/anthology/P14-2025/"
+    docurl: "https://doi.org/10.3115/v1/p14-2025"
   - layout: paper
     author: "Trevor Cohn, Daniel Preotiuc-Pietro and Neil Lawrence"
     title: "Gaussian Processes for Natural Language Processing"
@@ -2214,7 +2342,7 @@ papers:
     paper-type: inproceedings
     booktitle: "ACL 2014"
     booktitle-full: "Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics"
-    docurl: "https://www.aclweb.org/anthology/P14-6001/"
+    docurl: "https://doi.org/10.3115/v1/p14-6001"
   - layout: paper
     author: "Daniel Beck"
     title: "Bayesian Kernel Methods for Natural Language Processing"
@@ -2222,7 +2350,7 @@ papers:
     paper-type: inproceedings
     booktitle: "ACL 2014"
     booktitle-full: "Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics"
-    docurl: "https://www.aclweb.org/anthology/P14-3001/"
+    docurl: "https://doi.org/10.3115/v1/p14-3001"
   - layout: paper
     author: "Simon Kocbek, Karin Verspoor and Wray Buntine"
     title: "Exploring Temporal Patterns in Emergency Department Triage Notes with Topic Models"

@@ -27,6 +27,10 @@
     "long": "Information Retrieval and Knowledge Discovery in Biomedical Text",
     "short": null
   },
+  "DBLP:conf/ace/2020": {
+    "long": "Proceedings of the Twenty-Second Australasian Computing Education Conference",
+    "short": "{ACE} 2020"
+  },
   "DBLP:conf/acl-alta/2003": {
     "long": "Proceedings of the Australasian Language Technology Workshop",
     "short": "{ALTA} 2003"
@@ -86,6 +90,10 @@
   "DBLP:conf/acl-alta/2018": {
     "long": "Proceedings of the Australasian Language Technology Association Workshop 2018",
     "short": "ALTA 2018"
+  },
+  "DBLP:conf/acl-alta/2019": {
+    "long": "Proceedings of the The 17th Annual Workshop of the Australasian Language Technology Association",
+    "short": "{ALTA} 2019"
   },
   "DBLP:conf/acl-louhi/2018": {
     "long": "Proceedings of the Ninth International Workshop on Health Text Mining and Information Analysis",
@@ -246,6 +254,10 @@
   "DBLP:conf/aclnut/2018": {
     "long": "Proceedings of the 4th Workshop on Noisy User-generated Text",
     "short": "NUT@EMNLP 2018"
+  },
+  "DBLP:conf/aclnut/2019": {
+    "long": "Proceedings of the 5th Workshop on Noisy User-generated Text",
+    "short": "W-NUT@EMNLP 2019"
   },
   "DBLP:conf/adcs/2015": {
     "long": "Proceedings of the 20th Australasian Document Computing Symposium",
@@ -555,6 +567,10 @@
     "long": "Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing",
     "short": "EMNLP 2018"
   },
+  "DBLP:conf/emnlp/2019-1": {
+    "long": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing",
+    "short": "{EMNLP-IJCNLP} 2019"
+  },
   "DBLP:conf/gecco/2014": {
     "long": "Genetic and Evolutionary Computation Conference",
     "short": "{GECCO} '14"
@@ -590,6 +606,10 @@
   "DBLP:conf/iccpol/2006": {
     "long": "Computer Processing of Oriental Languages. Beyond the Orient: The Research Challenges Ahead",
     "short": "ICCPOL"
+  },
+  "DBLP:conf/icdm/2019": {
+    "long": "2019 {IEEE} International Conference on Data Mining",
+    "short": "{ICDM} 2019"
   },
   "DBLP:conf/icimth/2014": {
     "long": "Integrating Information Technology and Management for Quality of Care {[ICIMTH} 2014",
@@ -726,6 +746,10 @@
   "DBLP:conf/medinfo/2017": {
     "long": "{MEDINFO} 2017: Precision Healthcare through Informatics - Proceedings of the 16th World Congress on Medical and Health Informatics",
     "short": "MEDINFO 2017"
+  },
+  "DBLP:conf/medinfo/2019": {
+    "long": "{MEDINFO} 2019: Health and Wellbeing e-Networks for All - Proceedings of the 17th World Congress on Medical and Health Informatics",
+    "short": null
   },
   "DBLP:conf/mwe/2011": {
     "long": "Proceedings of the Workshop on Multiword Expressions: from Parsing and Generation to the Real World",
@@ -966,6 +990,10 @@
   "DBLP:conf/tac/2009": {
     "long": "Proceedings of the Second Text Analysis Conference",
     "short": "{TAC} 2009"
+  },
+  "DBLP:conf/textgraphs/2019": {
+    "long": "Proceedings of the Thirteenth Workshop on Graph-Based Methods for Natural Language Processing",
+    "short": null
   },
   "DBLP:conf/trec/2011": {
     "long": "Proceedings of The Twentieth Text REtrieval Conference",
